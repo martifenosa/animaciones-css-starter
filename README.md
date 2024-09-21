@@ -1,6 +1,9 @@
-# Proyecto de Inicio para Clases en Línea
+# Starter para Clases en Línea
 
-Este proyecto es un punto de partida para las clases en línea de Labasad. Incluye ejemplos de animaciones CSS utilizando GSAP y otros plugins.
+Este proyecto es un punto de partida para las clases de LABASAD.
+Incluye todo lo necesario para empezar a trabajar.
+
+**Nota:** Este proyecto no incluye soporte técnico. Para cualquier duda, consulta con tu instructor, Martí Fenosa, desarrollador frontend y de Motion.
 
 ## Asignaturas
 
@@ -26,9 +29,15 @@ Este proyecto es utilizado en las siguientes asignaturas:
 
    Descarga el proyecto desde el enlace proporcionado por el instructor y descomprime el archivo en tu computadora.
 
-2. **Abrir el Proyecto**
+2. **Ejecutar con Live Server**
 
-   Navega a la carpeta del proyecto y abre el archivo `index.html` en tu navegador web.
+   Para una mejor experiencia de desarrollo, se recomienda utilizar la extensión "Live Server" de Visual Studio Code. Sigue estos pasos:
+
+   - Instala la extensión "Live Server" desde el marketplace de Visual Studio Code.
+   - Abre el proyecto en Visual Studio Code.
+   - Inicia el Live Server y navega a la carpeta del proyecto. (Se puede iniciar con el botón de "Go Live" que se activa al instalar la extensión en la esquina inferior derecha de VSCode)
+
+   Esto abrirá el proyecto en tu navegador y recargará automáticamente la página cada vez que guardes los cambios.
 
 3. **Descomentar los Scripts (Solo para la clase de JavaScript)**
 
@@ -74,16 +83,6 @@ Este proyecto es utilizado en las siguientes asignaturas:
 
    Puedes editar los archivos CSS y JavaScript según sea necesario para tus ejercicios y pruebas. Guarda los cambios y recarga el navegador para ver los resultados.
 
-6. **Ejecutar con Live Server**
-
-   Para una mejor experiencia de desarrollo, se recomienda utilizar la extensión "Live Server" de Visual Studio Code. Sigue estos pasos:
-
-   - Instala la extensión "Live Server" desde el marketplace de Visual Studio Code.
-   - Abre el proyecto en Visual Studio Code.
-   - Haz clic derecho en el archivo `index.html` y selecciona "Open with Live Server".
-
-   Esto abrirá el proyecto en tu navegador y recargará automáticamente la página cada vez que guardes los cambios.
-
 ## Explicación de Carpetas
 
 ### Carpeta `shared`
@@ -103,9 +102,5 @@ La carpeta `ejemplo` es un punto de partida para cada ejercicio. Contiene los si
 - `main.js`: Archivo JavaScript principal para el ejemplo.
 
 Para cada nuevo ejercicio, debes duplicar esta carpeta y renombrarla con el nombre del ejercicio. Esto te permitirá tener todos los ejercicios organizados en un solo lugar y facilitará la gestión de los mismos.
-
-## Contacto
-
-Para cualquier duda o problema, por favor contacta a tu instructor, Martí Fenosa, desarrollador frontend y de Motion, o al soporte técnico de Labasad.
 
 ¡Disfruta de tus clases y feliz codificación!
