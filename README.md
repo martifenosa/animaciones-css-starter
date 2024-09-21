@@ -3,8 +3,6 @@
 Este proyecto es un punto de partida para las clases de LABASAD.
 Incluye todo lo necesario para empezar a trabajar.
 
-**Nota:** Este proyecto no incluye soporte técnico. Para cualquier duda, consulta con tu instructor, Martí Fenosa, desarrollador frontend y de Motion.
-
 ## Asignaturas
 
 Este proyecto es utilizado en las siguientes asignaturas:
