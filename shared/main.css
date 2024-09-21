@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Sud';
+	src: url('./Sud.woff2') format('woff2');
+	text-rendering: optimizeLegibility;
+}
+
+:root {
+	--color-0: #1a1a1a; /* Dark Gray for high contrast text */
+	--color-1: #ff6347; /* Tomato */
+	--color-2: #ffd700; /* Gold */
+	--color-3: #4682b4; /* Steel Blue */
+	--color-4: #f0f8ff; /* Alice Blue for high contrast background */
+}
+
+html {
+	font-size: 1.8vh;
+}
+
+body {
+	color: var(--color-0);
+	background-color: var(--color-4);
+}
