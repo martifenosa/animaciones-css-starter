@@ -100,5 +100,3 @@ La carpeta `ejemplo` es un punto de partida para cada ejercicio. Contiene los si
 - `main.js`: Archivo JavaScript principal para el ejemplo.
 
 Para cada nuevo ejercicio, debes duplicar esta carpeta y renombrarla con el nombre del ejercicio. Esto te permitirá tener todos los ejercicios organizados en un solo lugar y facilitará la gestión de los mismos.
-
-¡Disfruta de tus clases y feliz codificación!
