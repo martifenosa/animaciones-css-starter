@@ -1,0 +1,29 @@
+
+.container {
+	width: 100%;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+svg {
+	color: red;
+	width: 70%;
+	overflow: visible;
+}
+
+svg .item {
+	animation: path-animation 5s cubic-bezier(0,.97,1,.05) calc(0.3s * var(--i)) infinite alternate;
+}
+
+
+@keyframes path-animation {
+	0% {
+		transform: translate(100px, -200px);
+	}
+
+	100% {
+		transform: translate(-100px, 200px);
+	}
+}
