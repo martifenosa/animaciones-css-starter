@@ -1,0 +1,4 @@
+
+gsap.config({
+	trialWarn: false
+})
